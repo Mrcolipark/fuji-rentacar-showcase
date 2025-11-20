@@ -15,7 +15,7 @@
 ## 📖 Project Overview
 
 A **frontend-focused showcase website** developed for a premium Japanese car rental company. An enterprise-grade solution that achieves zero backend requirements, high-performance loading, and multilingual support.
-
+Live Address ：https://www.rentacarfuji.com/
 ### 🎯 Core Objectives
 
 - ✅ **Zero Operating Cost** - No server required, Vercel free hosting
